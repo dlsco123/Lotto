@@ -1,1 +1,1 @@
-# Lotto
+# Predicting Lotto with LSTM
